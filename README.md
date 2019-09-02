@@ -26,7 +26,7 @@ Steps for Jetson TX2 board (modify accordingly for other Jetson and CTI carrier 
 The CTI-L4T Board Support Package adds support for Connect Tech NVIDIA® Jetson™ Xavier and TX2i/TX2/TX1 carrier boards to Linux4Tegra. It includes any extra files required to use all the features of the carriers. You can click here to download the L4T Board Support Packages from our website. We provide board support packages for your AGX Xavier solutions and TX2i/ TX2/ TX1 solutions.
 
 1. Click to download the Board Support Package and choose the appropriate L4T package for your Jetson TX2.
-![Image of Yaktocat](https://github.com/rachit-aggarwal/docs/master/images/BSPLink_TX2_32_2.jpg)
+![Image of Yaktocat](https://github.com/rachit-aggarwal/docs/images/BSPLink_TX2_32_2.jpg)
 
 2. Once you download your board support package, copy the downloaded CTI BSP into the ‘Linux_for_Tegra’ directory as shown in the terminal screenshot.
 
